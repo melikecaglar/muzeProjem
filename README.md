@@ -14,4 +14,4 @@ Bu proje, sanal bir müze deneyimi sunmayı amaçlayan bir Python uygulamasıdı
 
 2. Gerekli kütüphaneleri yükleyin: pip install -r requirements.txt
 
-3. uygulamayı çalıştırın: python pythonsanalmuzeprojem.py
+3. Uygulamayı çalıştırın: python pythonsanalmuzeprojem.py
