@@ -10,7 +10,7 @@ Bu proje, sanal bir müze deneyimi sunmayı amaçlayan bir Python uygulamasıdı
 
 ## Kurulum
 
-1. Bu projeyi klonlayın: git clone https://github.com/kullaniciadi/sanal-muze-projesi.git
+1. Bu projeyi klonlayın: git clone https://github.com/melikecaglar/muzeProjem
 
 2. Gerekli kütüphaneleri yükleyin: pip install -r requirements.txt
 
